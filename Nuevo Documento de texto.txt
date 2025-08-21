@@ -1,0 +1,11 @@
+https://github.com/ritwickdey/vscode-live-server.git
+
+https://code.visualstudio.com/docs/configure/extensions/extension-marketplace
+
+https://css-tricks.com/guides/
+
+https://colorhunt.co/
+
+https://color.adobe.com/pt/create/color-wheel
+
+https://coolors.co/palettes/trending
